@@ -1,0 +1,26 @@
+git init
+git init
+git add
+git add app.py
+git add todo.txt
+git add debug.log
+git add .gitignore
+git commit -m "first commit"
+git checkout -b feature-login
+git add app.py
+git commit -m "feature-login change"
+git switch main
+git switch master
+git branch -m master main
+git switch main
+git add app.py
+git commit -m "main 2nd commit"
+git merge feature-login
+git merge feature-login
+git remote add origin https://github.com/X00226482/ca1ex2.git
+git push -u origin main
+git branch -m main
+git push -u origin main
+git pull
+git pull
+get-History | ?CommandLine -match "git" | %CommandLine > ca1ex2.txt
