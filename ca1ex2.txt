@@ -24,3 +24,5 @@ git push -u origin main
 git pull
 git pull
 get-History | ?CommandLine -match "git" | %CommandLine > ca1ex2.txt
+
+https://github.com/X00226482/ca1ex2.git
